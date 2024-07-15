@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shivan Mathur</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Software Engineer | Gen AI Enthusiast | Master's in CS at University at Buffalo</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivan-mathur&label=Profile%20views&color=0e75b6&style=flat" alt="shivan-mathur" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivan-mathur" alt="shivan-mathur" /></a> </p>
 
-- 🌱 I’m currently learning **Generative AI, System Design**
+- 🌱 I’m currently learning **Deep Learning, Generative AI, and System Design**
 
 - 💬 Ask me about **Software Engineering, Data Engineering**
 
