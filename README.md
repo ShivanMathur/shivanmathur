@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Deep Learning, Generative AI, and System Design**
 
-- 💬 Ask me about **Software Engineering, Data Engineering**
+- 💬 Ask me about **Software Engineering, Data Engineering, Programming**
 
 - 📫 How to reach me **shivanma@buffalo.edu**
 
