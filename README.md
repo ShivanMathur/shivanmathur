@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Shivan Mathur</h1>
-<h3 align="center">Software Engineer | Gen AI Enthusiast | Master's in CS at University at Buffalo</h3>
+<h3 align="center">Data Engineer | Gen AI Enthusiast | Master's in CS at University at Buffalo</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanmathur&label=Profile%20views&color=0e75b6&style=flat" alt="shivanmathur" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivanmathur" alt="shivanmathur" /></a> </p>
 
-- 🌱 I’m currently learning **Deep Learning, Generative AI, and System Design**
+- 🌱 I’m currently learning **Deep Learning, Natural Language Processing, and Generative AI**
 
-- 💬 Ask me about **Software Engineering, Data Engineering, Programming**
+- 💬 Ask me about **Data Engineering, Apache Airflow, Apache Spark, SQL, Java, Python, AWS**
 
-- 📫 How to reach me **shivanma@buffalo.edu**
+- 📫 Reach me at: **shivanma@buffalo.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
